@@ -1,0 +1,7 @@
+TekasTV TV v0.3.6 - TV-only hotfix
+
+Corrige o erro de compilação em HomeScreen.kt:
+Unresolved reference 'railGap'.
+
+Este pacote contém somente arquivos dentro de tvapp/.
+O módulo mobile app/ não é alterado.
